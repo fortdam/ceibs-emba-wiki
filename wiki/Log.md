@@ -8,6 +8,10 @@ tags:
 
 Chronological record of wiki operations.
 
+## [2026-04-12] ingest | 王安智 professor page + 团队动态领导力 cross-refs
+
+Created [[王安智]] professor page from raw sources. Updated [[团队动态领导力]] with wikilink to professor and additional related pages ([[心理安全]]). Updated [[index.md]] to include 王安智 in Entities — People. Fixed tag from `concept` to `course` on 团队动态领导力.
+
 ## [2026-04-12] expand | Knowledge Base Enrichment — 29 new pages
 
 Re-ingested all 79 raw sources to extract atomic concepts, frameworks, professors, and company case studies. Created 29 new wiki pages:
