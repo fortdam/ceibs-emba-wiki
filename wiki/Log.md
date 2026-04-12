@@ -8,6 +8,14 @@ tags:
 
 Chronological record of wiki operations.
 
+## [2026-04-12] ingest | 黄生 professor page + 开学模块 re-org
+
+Created [[黄生]] professor page (EMBA课程主任). Re-organized [[开学模块]]: added professor wikilinks ([[黄生]], [[王安智]]), added EMBA项目演进四阶段, 黄生核心观点引用, [[企业社会责任]] cross-ref. Updated [[index.md]].
+
+## [2026-04-12] ingest | 高岳 professor page + 具身智能 re-org
+
+Created [[高岳]] professor page from raw sources. Re-organized [[具身智能的今生与未来]]: added professor wikilink, restored Q&A section (黄仁勋评论、科学家股权、传统企业切入), added cross-references to [[特斯拉]] and [[华为]]. Updated [[index.md]].
+
 ## [2026-04-12] ingest | 王安智 professor page + 团队动态领导力 cross-refs
 
 Created [[王安智]] professor page from raw sources. Updated [[团队动态领导力]] with wikilink to professor and additional related pages ([[心理安全]]). Updated [[index.md]] to include 王安智 in Entities — People. Fixed tag from `concept` to `course` on 团队动态领导力.

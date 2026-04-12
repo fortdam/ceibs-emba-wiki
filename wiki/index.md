@@ -17,7 +17,7 @@ This wiki follows the [[LLM Wiki Pattern]] — instead of retrieving from raw do
 ### Courses
 *EMBA course modules and their key content.*
 
-- [[开学模块]] — 2025秋季EMBA入学导向：中欧历史、课程要求、赛艇领导力实践
+- [[开学模块]] — 黄生/王安智教授：2025秋季EMBA入学导向、中欧历史、课程体系、赛艇领导力
 - [[企业社会责任]] — 芮萌教授：商业向善、CSR/ESG演进、双碳战略、人生第二座山
 - [[征程模块]] — 张维炯/苏锡嘉：汽车市场商业模拟，客户定位、定价策略、财务思维、企业生存法则
 - [[数据驱动决策]] — 方跃教授：决策科学、量化分析、投资组合优化、AI前沿、传统企业数字化转型
@@ -28,7 +28,7 @@ This wiki follows the [[LLM Wiki Pattern]] — instead of retrieving from raw do
 ### Lectures
 *中欧合一讲堂及专题分享。*
 
-- [[具身智能的今生与未来]] — 高岳教授：Embodied AI技术架构、VLA模型、数据瓶颈、商业化痛点
+- [[具身智能的今生与未来]] — 高岳教授：Embodied AI技术架构、VLA模型、数据瓶颈、商业化痛点、投资估值
 - [[数字智慧与无龄社会]] — 合一讲堂：数字智能演进、TDA个人数字助手、无龄化社会展望
 
 ### Concepts & Frameworks
@@ -59,6 +59,8 @@ This wiki follows the [[LLM Wiki Pattern]] — instead of retrieving from raw do
 - [[赵浩]] — 组织行为学教授，组织设计与变革管理
 - [[张飞达]] — 决策者的财务视角讲师，财务报表第一性原理
 - [[程林]] — 决策者的财务视角教授，信息经济学与盈余管理检测
+- [[黄生]] — EMBA课程主任，开学模块导入课
+- [[高岳]] — 具身智能专题教授，Embodied AI技术与商业化
 - [[王安智]] — 团队动态领导力教授，赛艇情境式领导力实践
 - [[张维炯]] — 战略学教授，征程商业模拟课程总设计师
 - [[苏锡嘉]] — 征程模块教授，财务思维与合规
