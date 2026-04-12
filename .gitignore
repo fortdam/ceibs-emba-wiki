@@ -1,0 +1,12 @@
+# Quartz site (managed separately)
+site/
+
+# Claude Code config
+.claude/
+
+# OS files
+.DS_Store
+
+# Editor
+*.swp
+*.swo
