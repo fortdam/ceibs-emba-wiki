@@ -28,7 +28,7 @@ This wiki follows the [[LLM Wiki Pattern]] — instead of retrieving from raw do
 ### Lectures
 *中欧合一讲堂及专题分享。*
 
-- [[具身智能]] — 高岳教授：Embodied AI技术架构、VLA模型、数据瓶颈、商业化痛点
+- [[具身智能的今生与未来]] — 高岳教授：Embodied AI技术架构、VLA模型、数据瓶颈、商业化痛点
 - [[数字智慧与无龄社会]] — 合一讲堂：数字智能演进、TDA个人数字助手、无龄化社会展望
 
 ### Concepts & Frameworks

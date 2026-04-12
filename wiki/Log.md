@@ -56,7 +56,7 @@ Ingested 7 raw files (方跃教授 2025-12-06/07). Created [[数据驱动决策]
 
 ## [2026-04-11] ingest | 具身智能讲堂（1 source）
 
-Ingested 合一讲堂 (高岳教授 2025-11-29). Created [[具身智能]] — Embodied AI technology overview: VLA model architecture, end-to-end vs brain-cerebellum split, data collection bottleneck ($4-10B for universal model), Sim-to-Real challenges, hardware DOF design, and commercialization reality (education market as main cash flow).
+Ingested 合一讲堂 (高岳教授 2025-11-29). Created [[具身智能的今生与未来]] — Embodied AI technology overview: VLA model architecture, end-to-end vs brain-cerebellum split, data collection bottleneck ($4-10B for universal model), Sim-to-Real challenges, hardware DOF design, and commercialization reality (education market as main cash flow).
 
 ## [2026-04-11] ingest | 征程模块（6 sources）
 

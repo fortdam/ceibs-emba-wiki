@@ -1,5 +1,7 @@
-# Quartz site (managed separately)
-site/
+# Quartz site (managed separately, but not blanket-ignored
+# because Quartz uses globby with gitignore:true to find content)
+site/*
+!site/content
 
 # Claude Code config
 .claude/
