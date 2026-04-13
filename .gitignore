@@ -2,6 +2,13 @@
 # because Quartz uses globby with gitignore:true to find content)
 site/*
 !site/content
+!site/quartz/
+site/quartz/*
+!site/quartz/components/
+site/quartz/components/*
+!site/quartz/components/pages/
+site/quartz/components/pages/*
+!site/quartz/components/pages/404.tsx
 
 # Claude Code config
 .claude/
